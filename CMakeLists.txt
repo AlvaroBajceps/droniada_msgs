@@ -11,6 +11,11 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/CardReport.msg"
   "msg/PanelReport.msg"
   "msg/DroneRoute.msg"
+  "msg/BallStatus.msg"
+  "msg/GeoPoints.msg"
+  "msg/HydroInfo.msg"
+  "msg/HydroPhoto.msg"
+  "msg/VehiclePhoto.msg"
   DEPENDENCIES std_msgs sensor_msgs geographic_msgs
 )
 
