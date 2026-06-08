@@ -1,4 +1,4 @@
-Header header
+std_msgs/Header header
 
 uint8 pool_id
 float32 temperature
