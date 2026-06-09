@@ -5,7 +5,7 @@ uint8 STATUS_RELEASED = 2
 
 # color enum
 uint8 COLOR_RED = 0
-uint8 COLOR_GREEN = 1
+uint8 COLOR_YELLOW = 1
 uint8 COLOR_BLUE = 2
 
 uint8 POINT_BARREL_1 = 1
